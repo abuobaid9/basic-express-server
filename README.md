@@ -23,9 +23,9 @@
 
 ---
 
-![img1](./image/Screenshot%20(62).png)
-![img2](./image/Screenshot%20(64).png)
-![img3](./image/Screenshot%20(65).png)
-![img4](./image/Screenshot%20(66).png)
-![img5](./image/Screenshot%20(67).png)
-![img6](./image/Screenshot%20(68).png)
+![img1](./dev/Screenshot%20(62).png)
+![img2](./dev/Screenshot%20(64).png)
+![img3](./dev/Screenshot%20(65).png)
+![img4](./dev/Screenshot%20(66).png)
+![img5](./dev/Screenshot%20(67).png)
+![img6](./dev/Screenshot%20(68).png)
